@@ -1,7 +1,5 @@
 const sequelize = require('./db'); 
 const User = require('../models/user');
-const Post = require('../models/post');
-const Like = require('../models/like');
 
 const table_drop_and_recreate = false // Make this true to drop and re create the tables
 
