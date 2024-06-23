@@ -21,7 +21,7 @@ const authRoutes = require('./routes/authRoutes');
 app.use('/api/auth', authRoutes);
 // Add more routes
 
-//Middlewae
+//Middlewae - Errorhandler
 app.use(errorHandler);
 
 //DB
