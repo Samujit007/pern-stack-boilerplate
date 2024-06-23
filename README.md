@@ -64,23 +64,24 @@ Welcome to the PERN Stack Boilerplate! This repository serves as a comprehensive
 
 
 5. **Dependencies**:
-    ***backend*** 
-    - bcryptjs: Password hashing.
-    - cors: Cross-Origin Resource Sharing.
-    - dotenv: Environment variables management.
-    - express: Web framework.
-    - express-validator: Validation for express routes.
-    - jsonwebtoken: JWT authentication.
-    - pg: PostgreSQL client for Node.js.
-    - pg-hstore: Module for serializing and deserializing JSON data.
-    - sequelize: ORM for PostgreSQL.
-    - winston: Logging library.
-    - nodemon: optional command-line tool
-    ***frontend***:
-    - react: React library.
-    - zustand: Bear necessities for state management in React.
-    - tailwindcss: Utility-first CSS framework. 
-    - axios: HTTP client for making requests.  
+    - ***backend*** 
+        - bcryptjs: Password hashing.
+        - cors: Cross-Origin Resource Sharing.
+        - dotenv: Environment variables management.
+        - express: Web framework.
+        - express-validator: Validation for express routes.
+        - jsonwebtoken: JWT authentication.
+        - pg: PostgreSQL client for Node.js.
+        - pg-hstore: Module for serializing and deserializing JSON data.
+        - sequelize: ORM for PostgreSQL.
+        - winston: Logging library.
+        - nodemon: optional command-line tool
+    
+    - ***frontend***:
+        - react: React library.
+        - zustand: Bear necessities for state management in React.
+        - tailwindcss: Utility-first CSS framework. 
+        - axios: HTTP client for making requests.  
 
 6. **Running the Server**:
     To start the server, run: 
