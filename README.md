@@ -15,7 +15,6 @@ Welcome to the PERN Stack Boilerplate! This repository serves as a comprehensive
 - **State Management**: Using Zustand for state management in React.
 - **Styling**: TailwindCSS for modern and responsive styling.
 - **API Requests**: Axios for handling HTTP requests.
-- **UI Components**: React Bootstrap for pre-built UI components.
 - **Testing**: Setup for testing React components.
 - **Logging**: Winston for robust logging.
 - **Environment Configuration**: Easy management of environment variables.
@@ -66,22 +65,22 @@ Welcome to the PERN Stack Boilerplate! This repository serves as a comprehensive
 
 5. **Dependencies**:
     ***backend*** 
-    bcryptjs: Password hashing.
-    cors: Cross-Origin Resource Sharing.
-    dotenv: Environment variables management.
-    express: Web framework.
-    express-validator: Validation for express routes.
-    jsonwebtoken: JWT authentication.
-    pg: PostgreSQL client for Node.js.
-    pg-hstore: Module for serializing and deserializing JSON data.
-    sequelize: ORM for PostgreSQL.
-    winston: Logging library.
-    nodemon: optional command-line tool
+    - bcryptjs: Password hashing.
+    - cors: Cross-Origin Resource Sharing.
+    - dotenv: Environment variables management.
+    - express: Web framework.
+    - express-validator: Validation for express routes.
+    - jsonwebtoken: JWT authentication.
+    - pg: PostgreSQL client for Node.js.
+    - pg-hstore: Module for serializing and deserializing JSON data.
+    - sequelize: ORM for PostgreSQL.
+    - winston: Logging library.
+    - nodemon: optional command-line tool
     ***frontend***:
-    react: React library.
-    zustand: Bear necessities for state management in React.
-    tailwindcss: Utility-first CSS framework. 
-    axios: HTTP client for making requests.  
+    - react: React library.
+    - zustand: Bear necessities for state management in React.
+    - tailwindcss: Utility-first CSS framework. 
+    - axios: HTTP client for making requests.  
 
 6. **Running the Server**:
     To start the server, run: 
