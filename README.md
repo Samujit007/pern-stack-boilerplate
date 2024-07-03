@@ -89,7 +89,7 @@ Welcome to the PERN Stack Boilerplate! This repository serves as a comprehensive
     npx nodemon server.js
     ```     
 
-6. **Running the Server**:
+6. **Running the Client**:
     To start the client, run: 
     ```bash
     npm run start
